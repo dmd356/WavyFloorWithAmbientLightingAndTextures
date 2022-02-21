@@ -1,0 +1,2 @@
+# WavyFloorWithAmbientLightingAndTextures
+Creates a 5x5 (or more) grid. Creates animated states that the vertices will be in for each frame. Here I have 1.3 seconds, which at 60 fps renders to 78 frames, or 78 states for the grid. Each frame the grid peices move along the X/Y axis to make wave. Currently, just the squares move, not by the seams. Also can load objs and map texture to it. Notes for Updates: Make the seams go up and not the entire squares, just the edges. Also add more texture than just one to an obj
