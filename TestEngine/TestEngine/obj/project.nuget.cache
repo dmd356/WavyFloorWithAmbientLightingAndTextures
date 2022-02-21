@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQ3//HkWh7A9nTSWITd9zcYOgRb76W4ktMZd9g3Izj04lFuWlOjmUgLYWx7HD92IHbXZsqBxIGYvDKHVoQDmbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmd35\\source\\repos\\TestEngine\\TestEngine\\TestEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmd35\\.nuget\\packages\\imgui.net\\1.87.0\\imgui.net.1.87.0.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk\\4.6.7\\opentk.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.compute\\4.6.7\\opentk.compute.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.core\\4.6.7\\opentk.core.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.graphics\\4.6.7\\opentk.graphics.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.input\\4.6.7\\opentk.input.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.mathematics\\4.6.7\\opentk.mathematics.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.openal\\4.6.7\\opentk.openal.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.windowing.common\\4.6.7\\opentk.windowing.common.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.windowing.desktop\\4.6.7\\opentk.windowing.desktop.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.6.7\\opentk.windowing.graphicslibraryframework.4.6.7.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\sixlabors.imagesharp\\2.0.0\\sixlabors.imagesharp.2.0.0.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\dmd35\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

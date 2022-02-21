@@ -1,0 +1,10 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Metal_Embossed
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.564706 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd Box55/Metal_Embossed.jpg
+
